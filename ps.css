@@ -138,7 +138,7 @@ html,body {
     height: 620px;
     background-image: url(ps-files/ps-pics/rtj-1.jpg);
     background-repeat: no-repeat;
-    background-position: center;
+    background-position: bottom;
     
 /*    1 - 2 - 5 - 4 - 3*/
 /*    page-img-1 : bottom */
@@ -146,7 +146,6 @@ html,body {
 /*    page-img-3 : center */
 /*    page-img-4 : center */
 /*    page-img-5 : bottom*/
-
 
     background-size: cover;
     background-attachment: fixed;
@@ -171,7 +170,6 @@ html,body {
     
 /*    vertical-align: middle;*/
 /*    justify-content: center;*/
-    
 /*    margin: auto;*/
 /*    display: inline-block;*/
 }
